@@ -5,7 +5,7 @@
 Welcome to the repository for the paper "Network Anomaly Detection Using Hybrid Multiscale Residual Features Approach". This paper will be presented face-to-face at International Conference on Research in Engineering, Technology and Science (ICRETS) 2024, taking place on August 22-25, 2024, in Tashkent, Uzbekistan.
 
 ### Conference Information
-ICRETS is an annual conference organized by the International Society for Research in Education and Science (ISRES). ICRETS 2024 will mark the 6th conference organized by ISRES, providing a platform for scholars, students, and administrators from around the world to discuss theoretical and practical issues in various fields including Biology, Chemistry, Engineering, Mathematics, Physics, and Technology. All accepted full papers will be peer-reviewed and published in the Eurasia Proceedings of Science, Technology, Engineering & Mathematics (EPSTEM), which has been indexed by SCOPUS since 2022. For more details about the conference, visit the [ICRETS 2024 website](www.2024.icress.net) 
+ICRETS is an annual conference organized by the International Society for Research in Education and Science (ISRES). ICRETS 2024 will mark the 6th conference organized by ISRES, providing a platform for scholars, students, and administrators from around the world to discuss theoretical and practical issues in various fields including Biology, Chemistry, Engineering, Mathematics, Physics, and Technology. All accepted full papers will be peer-reviewed and published in the Eurasia Proceedings of Science, Technology, Engineering & Mathematics (EPSTEM), which has been indexed by SCOPUS since 2022. For more details about the conference, visit the [ICRETS 2024 website](https://www.2024.icrets.net/) 
 
 ## Abstract
 
